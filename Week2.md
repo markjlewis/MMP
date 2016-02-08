@@ -1,5 +1,5 @@
-Week 2
-#
+# Week 2
+
 
 This week I have focused mainly on the design of the app. As I am still unsure what is going to be in the app I have created designs 
 which can be used to display content. I have created two designs, one using drop downs and another using tabs. These designs are seperate
