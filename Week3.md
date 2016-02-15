@@ -1,5 +1,5 @@
-Week 3
-#
+# Week 3
+
 This week I have been working on pulling data from the courses.aber.ac.uk website to be displayed on the app. To do this I have been using
 a library called JSoup (jsoup.org).
 
